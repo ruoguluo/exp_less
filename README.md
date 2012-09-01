@@ -1,4 +1,4 @@
-exo_less
+exp_less
 ========
 
 my first RoR app
